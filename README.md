@@ -30,6 +30,4 @@ Definition of happiness
 
 ![Testing Only](The+Opera+House+view+from+Cremorne+Point.jpg)
 
-## Smaller heading
-
-##Nice to play Github with you guys ^_^##
+> Nice to play Github with you guys ^_^
