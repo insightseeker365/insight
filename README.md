@@ -28,4 +28,4 @@ Definition of happiness
 **:( definition syntax doesn't work here**
 *hello*
 
-[Testing Only](The+Opera+House+view+from+Cremorne+Point.jpg)
+![Testing Only](The+Opera+House+view+from+Cremorne+Point.jpg)
