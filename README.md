@@ -1,11 +1,11 @@
 # insight
 The place to gain insights
 
-## Smaller heading
+##Smaller heading
 
-** This text is in bold **
+**This text is in bold**
 
-* This text is in italics *
+ *This text is in italics*
 
 [Click here for gaining insights](https://www.youtube.com/watch?v=b1kbLwvqugk)
 
