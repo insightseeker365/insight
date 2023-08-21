@@ -27,3 +27,5 @@ Definition of happiness
 : good food
 **:( definition syntax doesn't work here**
 *hello*
+
+[Testing Only](The+Opera+House+view+from+Cremorne+Point.jpg)
