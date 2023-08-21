@@ -1,7 +1,7 @@
 # insight
 The place to gain insights
 
-##Smaller heading
+## Smaller heading
 
 **This text is in bold**
 
